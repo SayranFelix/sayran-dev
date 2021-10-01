@@ -12,3 +12,9 @@ body {
   text-decoration: underline;
   color: #00008B;
 }
+
+.image1 {
+  width: 300px;
+  height: 300px;
+  text-align: center;
+}
