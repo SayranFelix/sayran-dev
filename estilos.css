@@ -1,3 +1,14 @@
 body {
   font-family: Arial, Helvatica, sans-serif;
 }
+
+.hl {
+  text-decoration: none;
+  color: lightblue;
+  transition: 0.50s;
+}
+
+.h1:hover {
+  text-decoration: underline;
+  color: blue;
+}
