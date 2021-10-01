@@ -4,11 +4,11 @@ body {
 
 .hl {
   text-decoration: none;
-  color: lightblue;
+  color: blue;
   transition: 0.50s;
 }
 
 .h1:hover {
   text-decoration: underline;
-  color: blue;
+  color: navy;
 }
