@@ -19,7 +19,8 @@ body {
 }
 
 .links {
-  text-align: right;
+  position: absolute;
+  right: 0;
   display: flex;
 }
 
@@ -28,5 +29,5 @@ body {
 }
 
 .esp-links {
-  margin-right: 5px;
+  margin-right: 8px;
 }
