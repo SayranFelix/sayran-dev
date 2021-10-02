@@ -20,7 +20,7 @@ body {
 
 .links {
   position: absolute;
-  right: 0;
+  right: 8px;
   display: flex;
 }
 
